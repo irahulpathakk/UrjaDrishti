@@ -1,0 +1,112 @@
+[
+  {
+    "id": "SUB-401",
+    "name": "Bawana 400/220kV Gas Insulated Substation",
+    "voltage_class": "400/220kV",
+    "zone": "North Delhi",
+    "operator": "Delhi Transco Limited (DTL)",
+    "latitude": 28.7981,
+    "longitude": 77.0345,
+    "installed_mva": 1500.0,
+    "commissioned_year": 2012
+  },
+  {
+    "id": "SUB-402",
+    "name": "Bamnauli 400/220kV Substation",
+    "voltage_class": "400/220kV",
+    "zone": "South-West Delhi",
+    "operator": "Delhi Transco Limited (DTL)",
+    "latitude": 28.5524,
+    "longitude": 76.9942,
+    "installed_mva": 1260.0,
+    "commissioned_year": 2008
+  },
+  {
+    "id": "SUB-403",
+    "name": "Maharani Bagh 400/220kV GIS Substation",
+    "voltage_class": "400/220kV",
+    "zone": "South Delhi",
+    "operator": "Delhi Transco Limited (DTL)",
+    "latitude": 28.5786,
+    "longitude": 77.2625,
+    "installed_mva": 1000.0,
+    "commissioned_year": 2017
+  },
+  {
+    "id": "SUB-404",
+    "name": "Mandoli 400/220kV GIS Substation",
+    "voltage_class": "400/220kV",
+    "zone": "East Delhi",
+    "operator": "Delhi Transco Limited (DTL)",
+    "latitude": 28.7042,
+    "longitude": 77.3089,
+    "installed_mva": 1000.0,
+    "commissioned_year": 2015
+  },
+  {
+    "id": "SUB-201",
+    "name": "Patparganj 220/33kV Grid Substation",
+    "voltage_class": "220/33kV",
+    "zone": "East Delhi",
+    "operator": "Delhi Transco / BSES Yamuna",
+    "latitude": 28.6312,
+    "longitude": 77.2954,
+    "installed_mva": 480.0,
+    "commissioned_year": 2002
+  },
+  {
+    "id": "SUB-202",
+    "name": "Okhla Industrial Area 220/66kV Substation",
+    "voltage_class": "220/66kV",
+    "zone": "South Delhi",
+    "operator": "Delhi Transco / BSES Rajdhani",
+    "latitude": 28.5310,
+    "longitude": 77.2785,
+    "installed_mva": 600.0,
+    "commissioned_year": 2004
+  },
+  {
+    "id": "SUB-203",
+    "name": "Rohini Sector 16 220/66kV Grid",
+    "voltage_class": "220/66kV",
+    "zone": "North Delhi",
+    "operator": "Delhi Transco / Tata Power DDL",
+    "latitude": 28.7365,
+    "longitude": 77.1124,
+    "installed_mva": 450.0,
+    "commissioned_year": 2006
+  },
+  {
+    "id": "SUB-204",
+    "name": "Ridge Valley 220/33kV Substation",
+    "voltage_class": "220/33kV",
+    "zone": "Central Delhi",
+    "operator": "Delhi Transco / NDMC",
+    "latitude": 28.6189,
+    "longitude": 77.1942,
+    "installed_mva": 320.0,
+    "commissioned_year": 2010
+  },
+  {
+    "id": "SUB-205",
+    "name": "Dwarka Sector 22 220/66kV Substation",
+    "voltage_class": "220/66kV",
+    "zone": "West Delhi",
+    "operator": "Delhi Transco / BSES Rajdhani",
+    "latitude": 28.5714,
+    "longitude": 77.0543,
+    "installed_mva": 480.0,
+    "commissioned_year": 2011
+  },
+  {
+    "id": "SUB-206",
+    "name": "Ghazipur 220/66kV Grid Substation",
+    "voltage_class": "220/66kV",
+    "zone": "East Delhi",
+    "operator": "Delhi Transco / BSES Yamuna",
+    "latitude": 28.6258,
+    "longitude": 77.3312,
+    "installed_mva": 400.0,
+    "commissioned_year": 2005
+  }
+]
